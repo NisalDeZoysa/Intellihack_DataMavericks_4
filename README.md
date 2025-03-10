@@ -8,6 +8,8 @@ LSTM model : LSTM_Approach.ipynb
 
 Hybrid model : Hybrid_Approach.ipynb
 
+predictions.csv : Predictions for the test data used
+
 Overview
 This project focuses on predicting stock prices using three different deep learning architectures: LSTM, 1D Convolutional Neural Network (1DCNN), and a Hybrid LSTM+1DCNN model. Each model is evaluated based on its ability to predict stock prices and capture both short-term patterns and long-term dependencies in time series data.
 
