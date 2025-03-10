@@ -3,7 +3,9 @@ Stock Price Prediction Using LSTM, 1DCNN, and Hybrid Architectures.
 EDA : EDA.ipynb
 
 LSTM model : LSTM_Approach.ipynb
+
 1D-CNN model : 1D_CNN_Approach.ipynb
+
 Hybrid model : Hybrid_Approach.ipynb
 
 Overview
